@@ -254,5 +254,5 @@ greenTaxiDF = (
 
         .format("delta")
         
-        .saveAsTable("taxidb.greentaxis")
+        .saveAsTable("taxidb.greentaxirides")
 )

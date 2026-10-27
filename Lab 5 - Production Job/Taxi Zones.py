@@ -103,5 +103,5 @@ taxiZonesDF.printSchema()
 
         .format("delta")
         
-        .saveAsTable("taxidb.taxizones")
+        .saveAsTable("taxidb.zones")
 )
